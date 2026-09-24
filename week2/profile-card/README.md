@@ -19,10 +19,6 @@ npm run dev
 | `index.html` | #app과 /src/main.ts 연결 |
 | `answers/main.ts` | 완성 코드. 내용을 src/main.ts에 복사해서 비교 가능 |
 | `answers/main.build-failure.ts` | 의도적으로 status를 잘못 쓴 완성 코드 |
-| `answers/optional-bio.md` | bio?와 ?? 선택 확장 |
-
-`answers`는 기본 빌드 검사 범위 밖에 있습니다. 실행해 보려면 파일의 내용을 **src/main.ts에 복사**합니다. 해당 파일 이름을 바꾸거나 직접 Node로 실행하지 않습니다.
-
 
 ### STEP 1
 
