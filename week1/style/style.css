@@ -1,0 +1,22 @@
+* { box-sizing: border-box; }
+body {
+    background: #f5f0ea;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+    }
+
+.card {
+    background: white;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0,0,0,.1);
+    width: 320px;
+    text-align: center;
+}
+.card img { border-radius: 50%; }
+h1 { color: #e8590c; }
+a { color: #e8590c; transition: 0.2s; }
+a:hover { opacity: 0.6; }
